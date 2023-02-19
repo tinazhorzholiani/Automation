@@ -39,4 +39,4 @@ async def on_message(message):
         await message.channel.send(calculator(eval(choice)))
 
 
-client.run('MTAwNjE4NzE5MDU1ODEzNDI4Mg.GaKwtk.zoHht8XzwPxF5lwJvvvIckvbwAaRTjvEAZcbZk')
+client.run('') #we insert token here
