@@ -190,4 +190,4 @@ async def on_message(message):
         await message.channel.send('https://media.giphy.com/media/iQHDtnUZ7gxI4/giphy.gif')
 
 
-client.run('OTQ0OTQwOTUzMzQzNTE2Njcy.YhI61w._J5lTbNDKymboeXR55Z47Pmvyoc')
+client.run('') #we insert token here
